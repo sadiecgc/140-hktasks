@@ -1,0 +1,12 @@
+{
+  "name": "housekeeping-tracker-140w11th",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "googleapis": "^131.0.0",
+    "@netlify/blobs": "^8.0.0"
+  }
+}
